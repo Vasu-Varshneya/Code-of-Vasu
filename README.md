@@ -1,2 +1,2 @@
-# Code of Vasu
+# Netflix clone
  Practice makes perfect.
